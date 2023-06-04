@@ -25,19 +25,6 @@ Sockets run on the TCP/IP protocol. TCP (Transmission Control Protocol) provides
   <li/>After the data exchange between the client and the server is completed, the socket connection is closed. Before the socket is closed, necessary actions are taken to free buffers and free up resources.
 </ol>
 
-![resim_2023-06-04_143833007-removebg-preview](https://github.com/erenalparslan/Sockets/assets/100201401/559f78c7-4246-43e1-9504-c14bcdf27ae6)
-
-
-  
-
-
-
-
-
-
-
-
-
 # What does it do ?
 
 <ul>
@@ -47,3 +34,10 @@ Sockets run on the TCP/IP protocol. TCP (Transmission Control Protocol) provides
 
 <li/>Scheduled Tasks: Broadcast Receivers can also be used for executing scheduled tasks. For example, displaying a notification at a specific time or performing a specific operation within a certain time frame.
   </ul>
+  
+  <br/>
+
+![resim_2023-06-04_143833007-removebg-preview](https://github.com/erenalparslan/Sockets/assets/100201401/559f78c7-4246-43e1-9504-c14bcdf27ae6)
+
+
+ 
