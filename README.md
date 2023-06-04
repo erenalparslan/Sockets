@@ -14,6 +14,7 @@ Sockets run on the TCP/IP protocol. TCP (Transmission Control Protocol) provides
 
 <li/>Internet Applications: Internet-based applications such as web browsers, e-mail clients, instant messaging applications exchange data over sockets.
 </ol>
+
 # How Sockets Work
 
 <ol>
